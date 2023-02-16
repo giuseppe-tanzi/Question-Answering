@@ -18,7 +18,11 @@ Conversational question answering is a task in natural language processing where
 
 ## Dataset
 
-[CoQA](https://stanfordnlp.github.io/coqa/) is a large-scale dataset for building Conversational Question Answering systems. CoQA contains 127,000+ questions with answers collected from 8000+ conversations. Each conversation is collected by pairing two crowdworkers to chat about a passage in the form of questions and answers. The unique features of CoQA include 1) the questions are conversational; 2) the answers can be free-form text; 3) each answer also comes with an evidence subsequence highlighted in the passage; and 4) the passages are collected from seven diverse domains. CoQA has a lot of challenging phenomena not present in existing reading comprehension datasets, e.g., coreference and pragmatic reasoning.
+[CoQA](https://stanfordnlp.github.io/coqa/) is a large-scale dataset for building Conversational Question Answering systems. CoQA contains 127,000+ questions with answers collected from 8000+ conversations. Each conversation is collected by pairing two crowdworkers to chat about a passage in the form of questions and answers. The unique features of CoQA include:
+- the questions are conversational; 
+- the answers can be free-form text; 
+- each answer also comes with an evidence subsequence highlighted in the passage; 
+- the passages are collected from seven diverse domains. 
 
 ## Resources and references
 - [Pytorch](https://pytorch.org/)
