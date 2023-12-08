@@ -10,8 +10,6 @@ Authors:
 - [Flavio Pinzarrone](https://github.com/flaviopinzarrone)
 - [Giuseppe Tanzi](https://github.com/giuseppe-tanzi)
 
-[Second assignement](./Assignment.ipynb) for the "Natural Language Processing" course of the Artificial Intelligence master's degree at University of Bologna.
-
 ## Abstract 
 
 Conversational question answering is a task in natural language processing where the goal is to generate a natural language response to a question based on a given context and previous conversation history. Transformer-based models have recently shown promise in this task due to their ability to handle long-range dependencies and encode rich contextual information. In this report we present results on the task achieved using seq2seq transformer-based models with DistilRoBERTa and BERT-tiny, fine-tuned on the CoQA dataset.
